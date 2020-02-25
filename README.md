@@ -15,8 +15,7 @@ OR Use Terminal to install Virtualbox via CLI in Linux
 ------------------------------------------------------
 UBUNTU/ DEBIAN
 
-sudo su
-apt install virtualbox -y
+sudo apt install virtualbox -y
 
 VirtualBox Extension Pack
 -------------------------
